@@ -1,0 +1,27 @@
+#Navbar{
+    display: flex;
+    justify-content: space-between;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    font-family: sans-serif;
+    font-size: 10px;
+    margin: auto;
+}
+
+#transimage{
+    height: 60px;
+}
+
+#Navbar > h2:hover{
+    color: #0537ac;
+    cursor: pointer;
+}
+
+#NavBtn{
+    border-radius: 10px;
+    background-color: #0537ac;
+    font-family: sans-serif;
+    color: white;
+    height: 40px;
+    width: 8%;
+    border-color: #0537ac;
+}
